@@ -1,3 +1,10 @@
+# QuectoVirtualMemoryCollector (QVMC)
+
+**Author:** Cadell Richard Anderson  
+**License:** Custom License: Quectobyte Attribution License (QAL) v1.0
+**Version:** 0.1  
+**Date:** July 2025
+
 // qvmc_collector.cpp
 #include "qvmc_collector.h"
 #include <iostream> // For error logging (can replace with a proper logging framework later)
