@@ -57,7 +57,7 @@ If citing in academic work, use the following format:
 
 Anderson, C. R. (2025). QuectoVirtualMemoryCollector: A Sub-Byte Telemetry Framework for Virtualized Memory Systems. Published manuscript.
 
-This is the first program ever written to record data in quectobyte data units. Useful for upgrading the entire programming world.
+This is the first program ever written to record data in quectobyte data units (10^-30 bytes/millisecond*). Useful for upgrading the entire programming world. (*unit may change)
 
 The **QuectoVirtualMemoryCollector (QVMC)** is a research-grade telemetry and simulation framework designed to model virtual memory behavior at the sub-byte scale—specifically, the quectobyte (10⁻³⁰ bytes). This system enables entropy-aware, volatility-sensitive, and compression-optimized memory modeling in virtualized environments.
 
