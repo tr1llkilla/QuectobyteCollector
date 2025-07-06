@@ -17,7 +17,7 @@ int main() {
 
     std::string log_directory = "data/logs"; // Default logs directory
     // Define the monitored code directory here
-    std::string code_directory_to_monitor = "C:\\Users\\Noob\\source\\repos"; // <<< SET THIS TO YOUR ACTUAL PROJECT PATH
+    std::string code_directory_to_monitor = "C:\\Users\\Noob\\"; // <<< SET THIS TO YOUR ACTUAL PROJECT PATH
 
     // Pass both arguments to the constructor
     QVMC::QuectoVirtualMemoryCollector collector(log_directory, code_directory_to_monitor);
