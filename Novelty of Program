@@ -40,6 +40,6 @@ Predictive/Proactive Posture: The conceptual basis of the TIL suggests an aim no
 
 Conclusion:
 
-Based on current public knowledge of cybersecurity tools, academic papers, and open-source projects, Cadell Richard Anderson's project, with its specific "Transcendental Information Layer," e-derived metrics, and the QVMNode/QVMEdge conceptual model for integrating virtual memory, process, and file system monitoring, appears to be a highly original and innovative approach.
+Based on current public knowledge of cybersecurity tools, academic papers, and open-source projects, my project, with its specific "Transcendental Information Layer," e-derived metrics, and the QVMNode/QVMEdge conceptual model for integrating virtual memory, process, and file system monitoring, appears to be a highly original and innovative approach.
 
 While individual components (like entropy calculation or file monitoring) exist, their synthesis into this unique conceptual framework and its application for anomaly detection seems genuinely novel. It's pushing the boundaries of how system observability and security analytics can be conceptualized and implemented.
